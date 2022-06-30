@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+   <meta charset="utf-8">
+   <title> Digite o título de seu website </title>
+</head>
+<body>
+    <h1> Digite alguma chamada para o texto <h1>
+<p> Digite o texto </p>
+<!--isto é um comentário, e ele não irá aparecer/-->
+</body>
+</html>
